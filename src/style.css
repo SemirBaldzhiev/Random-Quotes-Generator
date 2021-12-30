@@ -1,0 +1,19 @@
+body, html{
+    background-color: rgb(93, 93, 230);
+    height: 99%;
+    display: grid;
+}
+
+#root{
+    background-color: white;
+    border-radius: 0.5rem;
+    text-align: center;
+    margin:auto;
+    
+    inline-size: 30rem;
+    overflow-wrap: break-word;
+}
+
+.content{
+    flex-wrap: wrap;
+}
